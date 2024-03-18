@@ -17,9 +17,7 @@ def difrent_remove_string():
                 print("\n") 
                 print(space)
                 
-                # Add To Github Config [github link : https://github.com/meahura/Freeinternet]
-                # Token [ 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 -- 60 Days ]
-                
+                # Add To Github Config [github link : https://github.com/meahura/Freeinternet]                
                 os.system("")
 
             else:
